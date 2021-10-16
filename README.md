@@ -1,4 +1,4 @@
-# Unity-Plane-with-On-Click-Block-Placement
+# Unity-Plane-with-On-Click-Block-Placement-with-Transparent-Cube-Indicator
 The objective of this homework is to increase your understanding of GameObjects, World Space, Transforms, Camera Controls, Mouse and Keyboard Inputs and other cool stuff...
 
 Building Blocks is a simple project that allows the user to place 1-unit cubes on a predefined board. You can think of it as a block game that allows the user to attach or stack-up cubes to create a specific shape.
